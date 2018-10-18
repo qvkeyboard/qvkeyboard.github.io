@@ -1,3 +1,10 @@
-<title>
-Hello
-</title>
+<?xml version="1.0" standalone="yes"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>QVKeyboardClient</title>
+<item>
+<title>1.0</title>
+<pubDate>Fri, 19 Oct 2018 00:15:43 +0800</pubDate>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<enclosure url="https://qvkeyboard.github.io/assets/update.zip" sparkle:version="7" sparkle:shortVersionString="1.0" length="2016305" type="application/octet-stream" sparkle:dsaSignature="tVbGBhmu6n/1DzYZ/P2E45wvWhnLZL5tXmldJSJbggVuFS2PgOvM+0ZeAtYeEs0ZPglH320rouGiKqprk8zohIhrbzy0plg7nVsl8O/n1uZ8BE8jTyMq/DKHfTc4QCOVtHxBZnWyze9GJFumdAFIDHoySNOtJoROQ3gx9fusOUNJziwkXVtoLPza/x2ah9m0xo30dcD9pzHnm073swL9jYXnaMZcGRZz6skz4XbDfAmQ5AHJmhP4xWM09279NnuNLjZUPccdlKUmUwa2vDBIMtNmFRDg2nDgiUKflBe5F0+BAWTwv+Ima8i11vRGyYeeyDNzMk5GsR2IVUqMRp8CVQ=="/>
+</item>
+</channel></rss>
