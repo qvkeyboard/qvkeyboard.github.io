@@ -2,9 +2,9 @@
 <channel>
 <title>QVKeyboardClient</title>
 <item>
-<title>1.1.1</title>
-<pubDate>Fri, 19 Oct 2018 00:45:20 +0800</pubDate>
+<title>1.1</title>
+<pubDate>Fri, 19 Oct 2018 01:03:31 +0800</pubDate>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://qvkeyboard.github.io/assets/update.zip" sparkle:version="0" sparkle:shortVersionString="1.1.1" length="2016976" type="application/octet-stream" sparkle:dsaSignature="jtz5QTyLkhxIdpCGt9pEvm6BKA3A22UTPM/7PHf1yeWEIFZsay+Voqd3qF4UQBwuRIuvJ5Fa+sdFBCEPJK/s1ViusJacuNZl1MHZY/Ha1tKZC4u7Z0LSJRoNiJyIx1iQOTA7BuBYj7OL4pYHb7KhDP9uuCp0Mg+B3g8VDCl5gHOVcpE57ZIbxUDZdvEGLJkBRzHdwq5SwzIxAPW0WtXsdhLY0rwYdqDOVA2/euZucJG0ziLacim3KgnKN2/6pZ80DSm5m/h/S0SutZW4ceofojsWyf6PvRrNA3Njh02iqBFdfRcTxSzO0vtbubLLaC8Wffup1qvrhv9ev264vWTVlg=="/>
+<enclosure url="https://qvkeyboard.github.io/assets/update.zip" sparkle:version="7" sparkle:shortVersionString="1.1" length="2016977" type="application/octet-stream" sparkle:dsaSignature="lyLKX05euXIjeIKElAktT/07m5Sc3JmBTbR0ewZJ/TPUUFI+1ag8sBkbJQfZp33CKKkzzfbZ1zhPim4T5G2fw+DowahsuPfq4aLG79yqEu4pmfcfgP+KFLd1NZf1TFHrR7N+5NLaX/dj4gj4oHjL5v+751qjuXm4dt9I3h1/opu0L7h0DXtUVqeIjk3oz8oregFmhI9vhcJP2lIWXuX1M8p86Sgt6eL6BeH3UeogZK8t/ZFOyyl45gx14ttl918aqxzLRVfuQ3AFb5+cMJrPujQPqz4g4NGpFDKEoz/ZqViukvbEBWzmYOeaLUUaG9x5HOZs1fLlEwJDCwZP2KqfuQ=="/>
 </item>
 </channel></rss>
